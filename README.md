@@ -3,6 +3,8 @@
 A modern, production-ready **multi-step registration form** built with React, focusing on performance, validation, and seamless user experience.
 
 🔗 **Live Demo:** https://the-registration-wizard-eight.vercel.app/
+
+
 📂 **GitHub Repository:** https://github.com/vardhan999-hub/The-Registration-wizard
 
 ---
